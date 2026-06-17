@@ -32,7 +32,7 @@ A simple rule-based chatbot built using Python. This chatbot responds to predefi
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/basic-chatbot.git
+git clone https://github.com/nasirbhatti14/CodeAlpha_basic_chatbot
 ```
 
 ## Navigate to the project directory:
